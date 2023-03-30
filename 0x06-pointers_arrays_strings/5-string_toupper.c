@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 /**
  * *string_toupper - capitalize a string
  * @str: pointer
@@ -16,5 +16,4 @@ char *string_toupper(char *str)
 	}
 	return (str);
 }
-
 
